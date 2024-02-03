@@ -1,22 +1,12 @@
-<!-- ### Hi there 👋 -->
 
-<!--
-**bllgg/bllgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!&fontSize=30&fontAlign=10"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bllgg&theme=dark&layout=compact)](https://github.com/bllgg/github-readme-stats)
+
+![Lahiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=bllgg&theme=dark&show_icons=true)
+
 
 
 <h3> Tools, Technologies, Frameworks I Have Used and Learned</h3>
@@ -98,3 +88,4 @@ zynq -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&fontSize=30&fontAlign=10&section=footer"/>
 </p>
+
