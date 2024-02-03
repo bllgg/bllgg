@@ -3,9 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!&fontSize=30&fontAlign=10"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bllgg&theme=dark&layout=compact)](https://github.com/bllgg/github-readme-stats)
 
-![Lahiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=bllgg&theme=dark&show_icons=true)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bllgg&theme=dark&show_icons=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bllgg&theme=dark&layout=compact" alt="Lahiru's github stats" /> |
+| ------------- | ------------- |
+
+
 
 
 
