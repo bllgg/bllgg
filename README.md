@@ -11,7 +11,7 @@
 
 
 
-<h3> Tools, Technologies, Frameworks I Have Used and Learned</h3>
+<h3> Tools, Technologies, Frameworks</h3>
 
 <h5> Programming Languages</h5>
 <p align="left">
