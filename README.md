@@ -11,7 +11,7 @@
 **PhD Candidate, Researcher, Computer Science Engineer**
 
 ### 🚀 Focus Areas
-Embedded systems • Wearables • Low level programming • Affective computing
+Embedded systems • Operating systems • Wearables • Low-level programming • Affective computing
 
 <h5> Programming Languages</h5>
 <p align="left">
